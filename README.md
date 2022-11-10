@@ -14,15 +14,15 @@ The BugOverflow will allow a student to upload a bug that he/she encounters duri
  - Design a user-friendly user interface* for your bug application.
  - Provide feature for authenticated student login.
  - Each student should be able to view a list of the bugs already posted on the site. Student should be able to select a bug and view additional details about the same.
- - Student should also be able to create a bug post and upload solutions to his/her own bug post or for the bug posts uploaded by other users.
+ - Student should also be able to create a bug post and upload solutions to his/her own bug post or for the bug posts uploaded by other users. <br>
  *Bonus: You can choose to create a detailed dashboard if you wish. This will fetch you extra marks.
 
 ## Expected Deliverables:
  - The students are expected to create a GitHub repo for their project and share a link to the same.
- - Additionally, a presentation containing the following is also required: 
-	-- Draw a use-case diagram of your application, identifying all the actors and the important use cases.
-	-- A snapshot of the UI/dashboard of the home page of the site.
-        -- A snapshot of the UI for uploading a bug/adding solution to a bug.
-        -- Details about additional features that have been incorporated, if any.
+ - Additionally, a presentation containing the following is also required:  <br>
+	-- Draw a use-case diagram of your application, identifying all the actors and the important use cases. <br>
+	-- A snapshot of the UI/dashboard of the home page of the site. <br>
+        -- A snapshot of the UI for uploading a bug/adding solution to a bug. <br>
+        -- Details about additional features that have been incorporated, if any. <br>
 
 
