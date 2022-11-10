@@ -24,3 +24,5 @@ The BugOverflow will allow a student to upload a bug that he/she encounters duri
 	-- A snapshot of the UI/dashboard of the home page of the site. <br>
         -- A snapshot of the UI for uploading a bug/adding solution to a bug. <br>
         -- Details about additional features that have been incorporated, if any. <br>
+
+
