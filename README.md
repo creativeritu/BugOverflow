@@ -9,6 +9,17 @@ The BugOverflow will allow a student to upload a bug that he/she encounters duri
 
 ### Technologies used: HTML, CSS, JavaScript, Python, Flask, SQL Lite DB, GitHub
 
+## Starter Code 
+There are (mostly) empty files which you need to wire together to develop the application.
+You should have a main application file named mainBugApp.py which should have the main code for the entire application.
+The html code for all pages should be in the templates folder. Add bugList.html that provides a dispaly for listing all the bugs. This should be the landing page 
+for your site. Add CSS sheets as required. 
+Add uploadBug.html and editBug.html for the upload bug page and edit bug pages.
+Finally, add databaseSchema.sql with all the SQL commands to create the required tables. You may consider to use SQLite database to store your data.
+Write the code to connect to the database in the initDB.py
+You may add more files as and when required.
+
+
 ## Task (Steps to be performed):
 
  - Design a user-friendly user interface* for your bug application.
