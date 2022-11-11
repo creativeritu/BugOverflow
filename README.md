@@ -32,6 +32,7 @@ You may add more files as and when required.<br>
  - The students are expected to create a GitHub repo for their project and share a link to the same.
  - Additionally, a presentation containing the following is also required:  <br>
 	-- Draw a use-case diagram of your application, identifying all the actors and the important use cases. <br>
+        -- Draw a component-level diagram detailing the logical/physical location of the various components created in your application.<br>
 	-- A snapshot of the UI/dashboard of the home page of the site. <br>
         -- A snapshot of the UI for uploading a bug/adding solution to a bug. <br>
         -- Details about additional features that have been incorporated, if any. <br>
